@@ -1,4 +1,4 @@
-#  Knowing - Persenal AI assistant
+#  Knowing - Personal AI assistant
 
 > 智能文档助手Knowing：基于LLM的个性化任务执行与信息检索系统
 
